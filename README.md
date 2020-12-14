@@ -1,6 +1,8 @@
 # Motley Technical Test
 Tech test for lead dev role
 
+Parts 1 and 2 are things to prepare before the tech interview, but don't require you to send us anything. Part 3 requires you to send us a link and some code.
+
 ## Part 1
 
 Imagine you've been asked to build a system for broadcasting highly-sensitive confidential messages to a collection of users in real time. Basically, it's a platform for creating group-chats, except only one user can send messages. Specifically, it requires the following:
