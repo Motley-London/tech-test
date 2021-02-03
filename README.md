@@ -36,7 +36,7 @@ Create a 'web app' that allows someone to choose a colour in HSV and then displa
 
 - Try to get the appearance of the page as close to `colour-picker.jpg` as possible;
 - The slider and bar on the right are for choosing hue, whilst the main box is for choosing saturation and value;
-- You can use libraries for manipulating the DOM/CSS, but don't use libraries for the colour picker itself. You should write the event handlers and the HSV to RGB conversion code, as well as the code that updates the view when a different colour is chosen;
+- You can use libraries for manipulating the DOM/CSS, but don't use libraries for the colour picker itself. You should write the event handlers and the HSV to RGB conversion code, as well as the code that updates the view when a different colour is chosen (NB: you don't need to understand the specifics of colour space theory or be able to explain HSV<->RGB conversion);
 - The box containing the actual hex value at the bottom is just a box with a border (i.e. don't worry about making it an input element)
 
 Please host the site somewhere and send us a link together with your code (either as a zip file or via a link to github etc.). If you need free hosting then https://www.netlify.com/ has a free plan.
